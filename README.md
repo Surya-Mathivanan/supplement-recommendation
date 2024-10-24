@@ -13,3 +13,22 @@ This is a Flask-based web application that recommends supplements based on nutri
 - Python 3.12+
 - Flask
 - Pandas
+## Project Structure
+
+```bash
+supplement-recommendation-system/
+│
+├── templates/
+│   └── index.html          # Main user input form
+│
+├── static/
+│   └── style.css           # Basic styling for the web page (optional)
+│
+├── app.py                  # Flask application logic
+├── requirements.txt        # Project dependencies
+├── README.md               # Project documentation
+└── .gitignore              # Git ignore file
+```
+## Output:
+
+
