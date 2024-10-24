@@ -30,5 +30,14 @@ supplement-recommendation-system/
 └── .gitignore              # Git ignore file
 ```
 ## Output:
+### User input page:
+![supplement input](https://github.com/user-attachments/assets/b3b4ef1d-556c-4c04-b341-78cec36842b7)
+### User outputpage:
+![supplement output](https://github.com/user-attachments/assets/cf0bf297-abcb-4a83-8d33-4cfc45de026d)
+### Sample:
+https://github.com/user-attachments/assets/603f6067-cfda-4297-b9c6-8e7ff649778d
+
+
+
 
 
